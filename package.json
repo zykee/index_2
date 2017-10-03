@@ -1,0 +1,19 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "homework for algorithm design",
+  "main": "index.js",
+  "dependencies":{
+    "fs":"^0.0.1-security",
+    "readline-sync": "^1.4.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zykee/index.git"
+  },
+  "author": "zykee",
+  "license": "ISC"
+}
