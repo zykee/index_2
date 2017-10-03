@@ -14,6 +14,6 @@ the homework for algorithm design
 ## 运行方式
 >  `node indextest.js`
 ## 结果图片
-！[运行截图](https://github.com/zykee/index_2/blob/master/运行结果截图.JPG)
-！[运行截图](https://github.com/zykee/index_2/blob/master/运行前文件.JPG)
-！[运行截图](https://github.com/zykee/index_2/blob/master/运行后文件.JPG)
+![运行截图](https://github.com/zykee/index_2/blob/master/运行结果截图.JPG)
+![运行截图](https://github.com/zykee/index_2/blob/master/运行前文件.JPG)
+![运行截图](https://github.com/zykee/index_2/blob/master/运行后文件.JPG)
