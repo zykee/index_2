@@ -13,5 +13,7 @@ the homework for algorithm design
 > package.json 概括了该项目所用的模块
 ## 运行方式
 >  `node indextest.js`
-## 图片
-！[运行截图]()
+## 结果图片
+！[运行截图](https://github.com/zykee/index_2/blob/master/运行结果截图.JPG)
+！[运行截图](https://github.com/zykee/index_2/blob/master/运行前文件.JPG)
+！[运行截图](https://github.com/zykee/index_2/blob/master/运行后文件.JPG)
